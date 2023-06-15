@@ -1,0 +1,20 @@
+
+
+1. Create a Single Linked List that has the method
+    a. Display
+        print from the beginning of the list to the end
+    b. Insert
+        Insert a new node at the end of the list
+    c. Delete
+        Delete a node at a certain position in the list
+
+2. Create a Single Linked List that has the method
+    a. Display
+        print from the beginning of the list to the end
+    b. Append
+        Insert a new node at the end of the list
+    b. Insert
+        Insert a new node at a certain position in the list
+        Head is the 0th position in the list
+
+3. 
