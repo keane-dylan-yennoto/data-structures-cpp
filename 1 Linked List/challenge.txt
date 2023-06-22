@@ -17,4 +17,4 @@
         Insert a new node at a certain position in the list
         Head is the 0th position in the list
 
-3. 
+
